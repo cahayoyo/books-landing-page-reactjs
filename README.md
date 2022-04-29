@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Books Landing Page with ReactJS and Bootstrap 5
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![](https://github.com/cahayoyo/books-landing-page-reactjs/blob/main/src/assets/images/git/giphy.gif)
 
 ## Available Scripts
 

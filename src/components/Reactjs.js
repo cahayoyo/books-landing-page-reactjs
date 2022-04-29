@@ -19,11 +19,8 @@ const Reactjs = () => {
                             <Image src={explainedImg} alt="Dune image" className="images" />
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">ANTMAN</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">REACT EXPLAINED</Card.Title>
+                                    <Card.Text className="text-center">by ZAC GORDON</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -33,11 +30,8 @@ const Reactjs = () => {
                             <Image src={learningImg} alt="Everything image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">AVENGER</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">LEARNING REACT</Card.Title>
+                                    <Card.Text className="text-center">by O'RELLY</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -47,11 +41,8 @@ const Reactjs = () => {
                             <Image src={nativeImg} alt="Infinite image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">BATMAN</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">REACT AND REACT NATIVE</Card.Title>
+                                    <Card.Text className="text-center">by ADAM BODUCH and ROY DERKS</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -61,11 +52,8 @@ const Reactjs = () => {
                             <Image src={quickstartImg} alt="Joker image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">ROBINHOOD</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">REACT</Card.Title>
+                                    <Card.Text className="text-center">by LIONEL LOPEZ</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -75,11 +63,8 @@ const Reactjs = () => {
                             <Image src={reactinactionImg} alt="Lightyear image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">SPIDERMAN</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">REACT IN ACTION</Card.Title>
+                                    <Card.Text className="text-center">by MARK TIELENS THOMAS</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -89,11 +74,8 @@ const Reactjs = () => {
                             <Image src={theroadtoImg} alt="Morbius image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">SUPERMAN</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">THE ROAD TO REACT</Card.Title>
+                                    <Card.Text className="text-center">by ROBIN WIERUCH</Card.Text>
                                 </div>
                             </div>
                         </Card>

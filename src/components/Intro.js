@@ -8,7 +8,7 @@ const Intro = () => {
                 <Col>
                     <div className='title'>BOOKS</div>
                     <div className='introButton mt-4 text-center'>
-                        <Button variant='dark'>See All Books</Button>
+                        <Button variant='dark' href='#javascript'>See All Books</Button>
                     </div>
                 </Col>
                 </Row>

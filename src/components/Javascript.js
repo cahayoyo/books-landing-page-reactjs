@@ -19,11 +19,8 @@ const Javascript = () => {
                             <Image src={cookbookImg} alt="Dune image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">DUNE</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">JAVASCRIPT COOKBOOK</Card.Title>
+                                    <Card.Text className="text-center">by O'REILLY</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -33,11 +30,8 @@ const Javascript = () => {
                             <Image src={designpatternImg} alt="Everything image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">EVERYTHING</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">JAVASCRIPT DESIGN PATTERNS</Card.Title>
+                                    <Card.Text className="text-center">by O'REILLY</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -47,11 +41,8 @@ const Javascript = () => {
                             <Image src={effectiveImg} alt="Infinite image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">INFINITE</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">EFFECTIVE JAVASCRIPT</Card.Title>
+                                    <Card.Text className="text-center">by DAVID HERMAN</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -61,11 +52,8 @@ const Javascript = () => {
                             <Image src={eloquentImg} alt="Joker image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">JOKER</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">ELOQUENT JAVASCRIPT</Card.Title>
+                                    <Card.Text className="text-center">by MARIJN HAVERBEKE</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -75,11 +63,8 @@ const Javascript = () => {
                             <Image src={goodpartsImg} alt="Lightyear image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">LIGHTYEAR</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">JAVASCRIPT THE GOOD PARTS</Card.Title>
+                                    <Card.Text className="text-center">by O'REILLY</Card.Text>
                                 </div>
                             </div>
                         </Card>
@@ -89,11 +74,8 @@ const Javascript = () => {
                             <Image src={speakingImg} alt="Morbius image" className="images"/>
                             <div className="bg-dark">
                                 <div className="p-2 m-1 text-white">
-                                    <Card.Title className="text-center">MORBIUS</Card.Title>
-                                    <Card.Text className="text-left">
-                                    Lorem Ipsum is simply dummy text of the printing
-                                    </Card.Text>
-                                    <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
+                                    <Card.Title className="text-center">SPEAKING JAVASCRIPT</Card.Title>
+                                    <Card.Text className="text-center">by DR.AXEL RAUSCHMAYER</Card.Text>
                                 </div>
                             </div>
                         </Card>
